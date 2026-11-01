@@ -18,7 +18,7 @@ An experimental Linux command-line application written in C++ for managing LUKS-
 
 A Windows hosts-file management utility written in PowerShell. Supports interactive and CLI operation, scheduled website blocking, presets and automatic backups.
 
-**[Brigde](https://github.com/snadderad/Bridge)**
+**[Bridge](https://github.com/snadderad/Bridge)**
 
 A full-stack social platform built with Python and Flask, designed to help older adults connect through user profiles, connections, messaging and a personalized feed. Uses SQLite for data persistence and bcrypt for password hashing.
 
