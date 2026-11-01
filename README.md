@@ -1,18 +1,36 @@
-# Hi, I'm Snad 👋
+# Hey, I'm Snadderad!
 
-I build things I think are cool, mostly in C++ and Python, plus web and systems work. I also run my own home server.
+Developer from the Netherlands interested in systems programming, networking and infrastructure.
 
-## Projects
+I primarily work with C++ and Python, building software across different layers of the stack. I enjoy understanding how things work under the hood, from low-level networking to the infrastructure running applications.
 
-- **[ArgusX](https://github.com/snadderad/ArgusX)**: a fast, multithreaded TCP port scanner in C++ with CIDR subnet support and POSIX and Winsock backends
-- **[Bridge](https://github.com/snadderad/Bridge)**: a full-stack social platform in Python and Flask, with profiles, connections, messaging and a personalized feed
-- **[DNSBlocker](https://github.com/snadderad/DNSBlocker)**: a PowerShell CLI that blocks websites system-wide, with scheduled timed blocks
+## Selected Projects
 
-## Also tinkering with
+**[ArgusX](https://github.com/snadderad/ArgusX)**
 
-- Self-hosting on an Ubuntu server: Docker, Tailscale, AdGuard Home, Immich
-- A Paper Minecraft server with my own Java plugin and a Discord bot
-- Simulating 40 qubits locally with Qiskit
+A multithreaded TCP port scanner written in C++, featuring CIDR subnet scanning, non-blocking socket operations and cross-platform POSIX/Winsock backends.
+
+**[VaultOS](https://github.com/snadderad/VaultOS)**
+
+An experimental Linux command-line application written in C++ for managing LUKS-encrypted file vaults, with file management and volume locking functionality.
+
+**[DNSBlocker](https://github.com/snadderad/DNSBlocker)**
+
+A Windows hosts-file management utility written in PowerShell. Supports interactive and CLI operation, scheduled website blocking, presets and automatic backups.
+
+**[Brigde](https://github.com/snadderad/Bridge)**
+
+A full-stack social platform built with Python and Flask, designed to help older adults connect through user profiles, connections, messaging and a personalized feed. Uses SQLite for data persistence and bcrypt for password hashing.
+
+*School project prototype, not intended for production use.*
+## Infrastructure
+
+I also run and maintain my own infrastructure:
+
+- Ubuntu home server and Docker deployments
+- Tailscale networking and Cloudflare Tunnels
+- Self-hosted applications and services
+- Linux administration and server maintenance
 
 ## Tech
 
@@ -23,6 +41,3 @@ I build things I think are cool, mostly in C++ and Python, plus web and systems 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Contact
-
-📍 The Netherlands · 🗣️ English / Nederlands
